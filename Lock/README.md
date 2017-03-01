@@ -1,1 +1,1 @@
-- [] thread safety example with lock
+- [ ]thread safety example with lock
